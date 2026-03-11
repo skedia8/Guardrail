@@ -36,22 +36,22 @@ This framework helps enterprises:
 
 ## 🏛️ Enterprise AI Governance Architecture
 
-User / Client Applications
-↓
-AI Application Layer
-↓
-AI Orchestration Layer
-↓
-Guardrails & Safety Layer
-↓
-Model Layer
-↓
-Retrieval Layer (RAG / Knowledge)
-↓
-Data Governance Layer
-↓
-Infrastructure & Platform Layer
-
+    User / Client Applications
+    ↓
+    AI Application Layer
+    ↓
+    AI Orchestration Layer
+    ↓
+    Guardrails & Safety Layer
+    ↓
+    Model Layer
+    ↓
+    Retrieval Layer (RAG / Knowledge)
+    ↓
+    Data Governance Layer
+    ↓
+    Infrastructure & Platform Layer
+    
 
 
 ---
@@ -121,6 +121,3 @@ Infrastructure & Platform Layer
 - **AI Platform Engineering** – Platform & infrastructure  
 
 ---
-
-## 📁 Suggested Repository Structure
-
