@@ -56,7 +56,41 @@ This framework helps enterprises:
 
 ---
 
-## 🛡️ Guardrail Implementation Matrix
+
+## 4. AI Guardrail Implementation Matrix
+
+The EU AI Act requires enterprises to implement governance and security controls across every layer of the AI stack.  
+This matrix provides a clear, actionable view of **what must be governed**, **why it matters**, and **how to implement guardrails** using industry‑standard tools.
+
+---
+
+### 🛡️ AI Guardrail Implementation Matrix
+
+| **AI Layer**               | **Governance Objective**             | **Key Risks**                     | **Guardrails / Controls**                                | **Example Market Solutions**     |
+|----------------------------|---------------------------------------|-----------------------------------|-----------------------------------------------------------|----------------------------------|
+| **AI Use Case Governance** | Identify and classify AI risk level   | Uncontrolled AI deployment         | AI inventory, risk classification workflow                | Credo AI, Holistic AI            |
+| **Data Governance**        | Protect enterprise & personal data    | Data leakage, privacy violations   | PII detection, dataset documentation, access control      | Collibra, BigID                  |
+| **Model Governance**       | Ensure safe and reliable models       | Bias, model drift                  | Model cards, fairness testing, explainability             | Fiddler AI, Arize AI             |
+| **Agent / Prompt Security**| Prevent prompt manipulation           | Prompt injection, tool misuse      | Prompt validation, tool access policies                   | Lakera, Protect AI               |
+| **Runtime Guardrails**     | Control unsafe or harmful outputs     | Hallucinations, toxic responses    | Output filtering, safety policies                         | Guardrails AI, NeMo Guardrails   |
+| **Monitoring & Observability** | Detect issues post‑deployment    | Model degradation                  | Drift detection, anomaly monitoring                       | WhyLabs, Seldon                  |
+| **Compliance & Audit**     | Maintain regulatory evidence          | Audit failures                     | Documentation, incident tracking                          | OneTrust, EQS                    |
+
+---
+
+### 🔍 How to Use This Matrix
+
+- **Architects** can map guardrails to system components  
+- **Security teams** can identify risk vectors and required controls  
+- **Governance teams** can align with EU AI Act obligations  
+- **Engineering teams** can integrate runtime and monitoring guardrails  
+
+This matrix becomes the foundation for a **centralized AI governance platform** and a **repeatable production‑readiness workflow**.
+
+---
+
+### 📂 Recommended Folder Structure for This Section
+
 
 | Layer                    | Objective                         | Risks                           | Controls                                   |
 |--------------------------|------------------------------------|----------------------------------|---------------------------------------------|
