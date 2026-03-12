@@ -78,6 +78,8 @@ This matrix provides a clear, actionable view of **what must be governed**, **wh
 
 ---
 
+# Extension of the available tools with its rating is available at the [ end ]  
+
 ### 🔍 How to Use This Matrix
 
 - **Architects** can map guardrails to system components  
