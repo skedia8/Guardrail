@@ -155,3 +155,44 @@ This matrix becomes the foundation for a **centralized AI governance platform** 
 - **AI Platform Engineering** – Platform & infrastructure  
 
 ---
+
+
+### Extension of AI Guardrail available tools
+# Enterprise AI Guardrail Tool Matrix (Adoption-Based)
+
+Rating Scale  
+5 = Very high industry adoption  
+4 = High adoption  
+3 = Moderate adoption  
+2 = Early adoption  
+
+| AI Layer | Tool | Primary Capability | Adoption Score | Reason |
+|---|---|---|---|---|
+| AI Use Case Governance | Credo AI | AI governance & compliance | 5 | Strong enterprise adoption and regulatory mapping |
+| AI Use Case Governance | Holistic AI | Responsible AI governance | 4 | Strong EU regulatory focus |
+| AI Use Case Governance | ModelOp | AI lifecycle governance | 4 | Used in regulated industries |
+| AI Use Case Governance | DataRobot Governance | Model governance & registry | 4 | Large enterprise ML adoption |
+| Data Governance | Collibra | Enterprise data catalog | 5 | Widely adopted enterprise data governance platform |
+| Data Governance | BigID | Data discovery & privacy | 5 | Strong PII and privacy governance adoption |
+| Data Governance | Immuta | Data access governance | 4 | Fine-grained data policy enforcement |
+| Data Governance | Alation | Data intelligence platform | 4 | Enterprise data catalog adoption |
+| Model Governance | Arize AI | Model observability | 4 | Widely used ML monitoring |
+| Model Governance | Fiddler AI | Explainability & fairness | 4 | Known for model explainability |
+| Model Governance | Arthur AI | Model monitoring | 3 | Moderate enterprise adoption |
+| Model Governance | Truera | Explainability | 3 | Strong research roots but niche adoption |
+| Agent / Prompt Security | Lakera | Prompt injection protection | 4 | Rapid adoption in GenAI security |
+| Agent / Prompt Security | Protect AI | ML supply chain security | 4 | Strong model artifact security |
+| Agent / Prompt Security | HiddenLayer | AI threat detection | 4 | Security vendor adoption |
+| Agent / Prompt Security | Robust Intelligence | AI adversarial testing | 4 | Model vulnerability testing |
+| Runtime Guardrails | NVIDIA NeMo Guardrails | LLM safety enforcement | 5 | High adoption via NVIDIA ecosystem |
+| Runtime Guardrails | Guardrails AI | LLM output validation | 4 | Popular developer framework |
+| Runtime Guardrails | Azure AI Content Safety | AI moderation | 5 | Strong enterprise Microsoft ecosystem |
+| Runtime Guardrails | LangChain Guardrails | Agent runtime validation | 4 | Widely used in agent architectures |
+| Monitoring & Observability | WhyLabs | AI observability | 4 | ML monitoring adoption |
+| Monitoring & Observability | Seldon | Deployment & monitoring | 4 | Kubernetes ML ecosystem |
+| Monitoring & Observability | Datadog | AI observability | 4 | DevOps stack integration |
+| Monitoring & Observability | Dynatrace | Full-stack monitoring | 4 | Enterprise monitoring expansion |
+| Compliance & Audit | OneTrust | Privacy & AI compliance | 5 | Market leader in privacy compliance |
+| Compliance & Audit | ServiceNow GRC | Risk governance | 5 | Widely adopted enterprise workflow platform |
+| Compliance & Audit | RSA Archer | Enterprise risk governance | 4 | Strong regulated industry adoption |
+| Compliance & Audit | EQS Group | Compliance workflows | 3 | Moderate enterprise adoption |
